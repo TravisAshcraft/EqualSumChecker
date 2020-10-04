@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
 	    EqualSumChecker equalSumChecker = new EqualSumChecker();
 
-	    equalSumChecker.recursiveMethod(4,6);
+	    equalSumChecker.recursiveMethod(4,4);
 
     }
 
